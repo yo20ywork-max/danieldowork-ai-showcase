@@ -18,3 +18,7 @@ See [validation](VALIDATION.md). A parsed tool call does not execute an action. 
 The private application integrates model routing, local execution, bridge services, and worker orchestration. This public excerpt is a bounded example of its protocol layer, not the complete service stack.
 
 [DanielDoWork product presentation](https://github.com/yo20ywork-max/danieldowork-showcase)
+
+## Architecture walkthrough
+
+The [README](README.md) explains the product concept, request flow, task execution, and component boundaries. The [source review map](SOURCE_REVIEW.md) identifies the fixed implementation snapshots used for that explanation. This additional documentation does not expand the scope of the executable validation recorded above.
